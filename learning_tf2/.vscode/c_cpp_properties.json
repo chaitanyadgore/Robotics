@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/g/o/gore/catkin_ws/devel/include/**",
+        "/home/g/o/gore/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/g/o/gore/catkin_ws/src/hector_slam/hector_geotiff/include/**",
+        "/home/g/o/gore/catkin_ws/src/hector_slam/hector_map_tools/include/**",
+        "/home/g/o/gore/catkin_ws/src/hector_slam/hector_mapping/include/**",
+        "/home/g/o/gore/catkin_ws/src/hector_slam/hector_marker_drawing/include/**",
+        "/home/g/o/gore/catkin_ws/src/learning_tf2/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

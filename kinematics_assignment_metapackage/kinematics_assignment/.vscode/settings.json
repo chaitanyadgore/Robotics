@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/afs/kth.se/home/g/o/gore/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/home/g/o/gore/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/afs/kth.se/home/g/o/gore/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/home/g/o/gore/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}
